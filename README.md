@@ -1,3 +1,3 @@
 # m-r
 add v2
-add v1 1
+add v1 1 2
